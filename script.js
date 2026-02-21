@@ -1,4 +1,4 @@
-const API = "https://YOUR_BACKEND_URL/chat";
+const API = "aiven-ai-production.up.railway.app";
 
 async function send() {
   const input = document.getElementById("message");
